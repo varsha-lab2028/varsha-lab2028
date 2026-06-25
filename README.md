@@ -1,5 +1,4 @@
-## Hi there! I'm Varshamegana 🖤, though most people call me Varsha
----
+# Hi there! I'm Varshamegana 🖤, though most people call me Varsha
 I'm a Computer Science Undergrad at IIIT Delhi. 
 I enjoy building projects, solving algorithmic problems and constantly learning new technologies.
 ---
