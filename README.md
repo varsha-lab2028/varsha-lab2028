@@ -1,7 +1,7 @@
 ## Hi there! I'm Varshamegana 🖤, though most people call me Varsha
+---
 I'm a Computer Science Undergrad at IIIT Delhi. 
 I enjoy building projects, solving algorithmic problems and constantly learning new technologies. 
----
 <!--
 **varsha-lab2028/varsha-lab2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
